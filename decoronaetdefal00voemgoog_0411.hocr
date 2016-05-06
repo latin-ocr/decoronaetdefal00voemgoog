@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decoronaetdefal00voemgoog/decoronaetdefal00voemgoog_0411.png"; bbox 0 0 3084 4938; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 870 1522 2108 1815">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 870 1522 2108 1815">
+     <span class='ocr_line' id='line_1_1' title="bbox 870 1522 2108 1618; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 870 1522 2108 1618; x_wconf 80' lang='grc' dir='ltr'>ΔΗΜΟΣΘΕΝΟΤΣ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1289 1748 1640 1815; baseline -0.003 0"><span class='ocrx_word' id='word_1_2' title='bbox 1289 1750 1347 1815; x_wconf 92' lang='lat'>0</span> <span class='ocrx_word' id='word_1_3' title='bbox 1428 1748 1640 1815; x_wconf 77' lang='grc' dir='ltr'>ΠΕΡΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 586 1944 2390 2040">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 586 1944 2390 2040">
+     <span class='ocr_line' id='line_1_3' title="bbox 586 1944 2390 2040; baseline 0 -21"><span class='ocrx_word' id='word_1_4' title='bbox 586 1946 886 2019; x_wconf 87' lang='grc' dir='ltr'><strong>ΤΗΣ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 988 1944 2390 2040; x_wconf 78' lang='grc' dir='ltr'><strong>ΠΑΡΑΠΡΕΣΒΕΙΑΣ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 898 2438 2074 2722">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 898 2438 2074 2722">
+     <span class='ocr_line' id='line_1_4' title="bbox 898 2438 2074 2537; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 898 2438 2074 2537; x_wconf 81' lang='lat' dir='ltr'>DEMOSTHENIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1234 2656 1746 2722; baseline -0.004 0"><span class='ocrx_word' id='word_1_7' title='bbox 1234 2656 1574 2722; x_wconf 80' lang='lat' dir='ltr'><strong>ORATIO</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1617 2657 1746 2720; x_wconf 86' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 694 2845 2376 2922">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 694 2845 2376 2922">
+     <span class='ocr_line' id='line_1_6' title="bbox 694 2845 2376 2922; baseline 0 -2"><span class='ocrx_word' id='word_1_9' title='bbox 694 2845 1192 2922; x_wconf 85' lang='lat' dir='ltr'><strong>FALSA</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1296 2845 2278 2921; x_wconf 76' lang='lat' dir='ltr'>LEGATIONE.</span> <span class='ocrx_word' id='word_1_11' title='bbox 2371 2853 2376 2856; x_wconf 78' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
